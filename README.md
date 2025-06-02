@@ -14,16 +14,19 @@ A modern React Weather application built with TypeScript, Vite, and Tailwind CSS
 ## 📦 Installation
 
 1. Clone the repository:
+
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/Emmetthazel/Meteo-App.git
 ```
 
 2. Navigate to the project directory:
+
 ```bash
-cd [project-directory]
+cd Meteo-App
 ```
 
 3. Install dependencies:
+
 ```bash
 npm install
 ```
@@ -36,7 +39,7 @@ To start the development server:
 npm run dev
 ```
 
-This will start the development server at `http://localhost:5173` (or another port if 5173 is in use).
+This will start the development server at `http://localhost:5173` 
 
 ## 🏗️ Building for Production
 
@@ -68,7 +71,6 @@ npm run preview
 
 ```
 ├── src/              # Source files
-├── public/           # Static files
 ├── index.html        # Entry HTML file
 ├── vite.config.ts    # Vite configuration
 ├── tsconfig.json     # TypeScript configuration
