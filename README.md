@@ -39,7 +39,7 @@ To start the development server:
 npm run dev
 ```
 
-This will start the development server at `http://localhost:5173` 
+This will start the development server at `http://localhost:5173`
 
 ## 🏗️ Building for Production
 
@@ -85,7 +85,3 @@ npm run preview
 - [Vite](https://vitejs.dev/) - ^5.4.2
 - [Tailwind CSS](https://tailwindcss.com/) - ^3.4.1
 - [ESLint](https://eslint.org/) - ^9.9.1
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
